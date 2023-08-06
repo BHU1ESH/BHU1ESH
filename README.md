@@ -2,7 +2,7 @@
 - 👀 I’m interested in software devlopment 
 - 🌱 I’m currently learning C++,python
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me email me @ bhuvaneshr9483@gmai.com
+- 📫 How to reach me email me @ bhuvaneshr9483@gmail.com
 
 
 ### :fire: My Stats : 
